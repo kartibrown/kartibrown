@@ -31,7 +31,14 @@ You might find things like:
 I don't try to learn everything first.  
 I build first, then figure out why it works later.
 
-cpp if (it_works) {     dont_touch(); } 
+```cpp
+
+if (it_works)
+{
+    dont_touch();
+}
+
+```
 
 ## 🗃️ Notes
 Some repos are archived or messy — that's intentional.  
